@@ -6,4 +6,4 @@ This repository is being used to store short projects that were produced during 
 
 - [x] [Glowing Dots Animation](./glowing-dots) - [Reference](https://www.youtube.com/watch?v=fEyjfeRhUK8).
 - [x] [Infinite Dots Animation](./infinite-dots) - [Reference](https://www.youtube.com/watch?v=dxquAfnHhqg).
-- [ ] Colorful Glowing Liquid - [Reference](https://www.youtube.com/watch?v=DkwvTVbY7HQ)
+- [ ] [Colorful Glowing Liquid](./colorful-glowing-liquid) - [Reference](https://www.youtube.com/watch?v=DkwvTVbY7HQ)
