@@ -2,7 +2,7 @@
 
 ### 👉 Preview
 <div>
-    <img src="print-gif.gif" />
+    <img src="glowing-dots.gif" />
 </div>
 
 ### 😉 For testing on your localhost

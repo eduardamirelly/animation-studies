@@ -8,6 +8,18 @@
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    
+    <div class="container">
+        <div class="circle"></div>
+        <div class="circle"></div>
+    </div>
 </body>
+<script>
+    const circles = document.getElementsByClassName('circle');
+    const n_dots = 20;
+
+    for (let i = 0; i <= n_dots; i++) {
+        circles[0].innerHTML += "<span style='--i: "+i+";'></span>";
+        circles[1].innerHTML += "<span style='--i: "+i+";'></span>";
+    }
+</script>
 </html>
