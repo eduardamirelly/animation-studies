@@ -2,7 +2,7 @@
 
 ### 👉 Preview
 <div>
-    <img src="colorful-glowing-liquid.gif" />
+    <img src="./{filename}.gif" />
 </div>
 
 ### 😉 For testing on your localhost
